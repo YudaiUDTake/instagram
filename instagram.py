@@ -66,7 +66,7 @@ if __name__ == '__main__':
     taglist = ['プログラミング', 'エンジニア', '駆け出しエンジニア']
 
     while True:
-        driver = webdriver.Chrome('/Users/yudaiudtake/Python/Project/instagram/chromedriver')
+        driver = webdriver.Chrome('')
         time.sleep(3)
         login()
 
